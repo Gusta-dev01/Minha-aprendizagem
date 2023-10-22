@@ -18,6 +18,6 @@ if(precos.length >= 5){
     }
     console.log(soma - menor);
 }else {
-    // nao tem promoçao
+    // nao tem promoçao trs
     console.log(soma);
 }
